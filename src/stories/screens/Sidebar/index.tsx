@@ -13,14 +13,18 @@ const routes = [
 	},
 	{
 		route: "Login",
-		caption: "Logout",
+		caption: "Logout x",
+	},
+	{
+		route: "Test",
+		caption: "Test Screen",
 	},
 ];
 
 export interface Props {
 	navigation: any;
 }
-export interface State {}
+export interface State { }
 const resetAction = NavigationActions.reset({
 	index: 0,
 	actions: [NavigationActions.navigate({ routeName: "Login" })],

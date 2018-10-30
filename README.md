@@ -20,7 +20,7 @@
 On the command prompt run the following commands
 
 ```sh
-$ git clone https://github.com/saepulloh/react-native-seed
+$ git clone https://github.com/GeekyAnts/react-native-boilerplate-redux-typescript.git
 
 $ cd react-native-boilerplate-redux-typescript/
 

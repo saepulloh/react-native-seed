@@ -5,4 +5,5 @@ export default [
 	"NativeBase",
 	"CodePush",
 	"Redux",
+	"TEST",
 ];
